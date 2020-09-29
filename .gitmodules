@@ -1,0 +1,3 @@
+[submodule "private/mermaid"]
+	path = private/mermaid
+	url = git@github.com:arnm/mermaid-layer.git
